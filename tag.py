@@ -14,7 +14,7 @@ botStart = time.time()
 #==============================================================================#
 #line = LINE()
 #line = LINE("เมล","พาส")
-line = LINE('EuLqsvDdB1hQBCHG7Ak3.TAVOkm2wqPizxdXz1JiGmW.WqjdmfB4EUijhQ86TRAZjLf7XHz5LeoRQKHR0wseDPg=')
+line = LINE('EwY5J26JCU4Nr2hguBzd.4ewRNrGM7sVk/ZrcI2TjRq.UxzVQdaogCFVvLzxX33Xyk8VRGFCKJO4xeQ7wSW8Pow=')
 line.log("Auth Token : " + str(line.authToken))
 line.log("Timeline Token : " + str(line.tl.channelAccessToken))
 
@@ -35,8 +35,8 @@ Exc = [line]
 lineMID = line.getProfile().mid
 bot1 = line.getProfile().mid
 RfuBot=[lineMID]
-Family=["ub5abe828cd964292195c3c59d6322033",lineMID]
-admin=['ub5abe828cd964292195c3c59d6322033',lineMID]
+Family=["ue045ab9d1826ed2bcafb34428b6b49ad",lineMID]
+admin=['ue045ab9d1826ed2bcafb34428b6b49ad',lineMID]
 RfuFamily = RfuBot + Family
 
 protectname = []
