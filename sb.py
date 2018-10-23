@@ -14,7 +14,7 @@ botStart = time.time()
 #==============================================================================#
 #line = LINE()
 #line = LINE("เมล","พาส")
-line = LINE('ExD1or2aAwI1XSoRY5e1./8u1z8rl5G3DEnOcgd+DSq.f/symvYoc7bR7BIcjjeNfGuBjUZxUsaeY5O1E4gIkvY=')
+line = LINE('Ey76E6hFGpQVt2reeEHf.K9hUseF6j4f/WE5DLTHHBW.Wbhl6UjugBf3yJDHV4lwUq5Ee296jnySDLl11qJ2xlA=')
 line.log("Auth Token : " + str(line.authToken))
 line.log("Timeline Token : " + str(line.tl.channelAccessToken))
 
@@ -35,8 +35,8 @@ Exc = [line]
 lineMID = line.getProfile().mid
 bot1 = line.getProfile().mid
 RfuBot=[lineMID]
-Family=["ufbc53567c44be60ddd78da02183fddb1",lineMID]
-admin=['ufbc53567c44be60ddd78da02183fddb1',lineMID]
+Family=["u93d1ee4847fa27817ec1ee5d96d8616f",lineMID]
+admin=['u93d1ee4847fa27817ec1ee5d96d8616f',lineMID]
 RfuFamily = RfuBot + Family
 
 protectname = []
@@ -90,7 +90,7 @@ settings = {
     "welcome":"welcome",
     "kick":"😱อุ๊ต๊ะ😱",
     "bye":"🙌บาย..",
-    "Respontag":"😳",
+    "Respontag":"Fans sepri nie",
     "eror":"error",
     "spam":{},
     "invite": {},
